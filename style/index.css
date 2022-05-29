@@ -1,0 +1,14 @@
+#navbar{
+    border: 1px solid red;
+    height: 30px;
+    background-color: teal;
+    color: white;
+    justify-content: end;
+    padding: 40px;
+    font-size: large;
+    font-family: sans-serif;
+
+}
+#navbar>a{
+    margin: 15px;
+}
